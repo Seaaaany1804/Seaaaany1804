@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sean Dexter Lagmay</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
-<img align="right" alt="Coding width="400 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F3848914-Programmer-Thomas&psig=AOvVaw2u7cZ5A2IURsXWAp5IaEeA&ust=1725976711335000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJj41b6CtogDFQAAAAAdAAAAABAI"
+<img align="right" alt="Coding width="400 src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif">
  
 - 🌱 I’m currently learning **ReactJS**
 
